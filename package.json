@@ -1,5 +1,5 @@
 {
-  "name": "serverless-runtime-babel",
+  "name": "serverless-runtime-babel43",
   "version": "0.0.6",
   "description": "A Babel runtime for the Serverless framework",
   "main": "index.js",
@@ -32,5 +32,8 @@
     "glob": "^7.0.3",
     "lodash": "^4.6.1",
     "minifyify": "^7.3.2"
+  },
+  "directories": {
+    "example": "examples"
   }
 }
